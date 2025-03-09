@@ -4,7 +4,7 @@
 - git add README.md
 - git commit -m "first commit"
 - git branch -M main
-- git remote add origin https: //
+- git remote add origin https: //github.com/svpirate503/Programa.git
 - git push -u origin main 
 
 <!---
